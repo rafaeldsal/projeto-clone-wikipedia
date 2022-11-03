@@ -1,0 +1,45 @@
+:root {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #36c
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.cabecalho {
+  background-color: #eaecf0;
+  padding: 12px 24px;
+}
+
+.cabecalho-conteudo {
+  max-width: 40em;
+  margin: 0 auto;
+}
+
+.logo-figura {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  display: flex;
+  align-items: center;
+}
+
+.logo-nome {
+  margin: 0 15px;
+  font-size: 2.2rem;
+}
+
+.rodape {
+  background-color: #eaecf0;
+  text-align: center;
+  padding: 12px;
+}
